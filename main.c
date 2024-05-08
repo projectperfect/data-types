@@ -8,7 +8,7 @@ int main() {
 
     // _Bool boolVar = 0;
     bool myBoolean = true;
-    bool anotherBoolean = false; 
+    bool anotherBoolean = false;
 
 
 
